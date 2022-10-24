@@ -1,4 +1,4 @@
-# ** Парсинг сайта  BENANCE с помощью PYTHON + SELENIUM **
+#  Парсинг сайта  BENANCE с помощью PYTHON + SELENIUM 
 
 ## https://www.binance.com/ru/markets
 
